@@ -8,7 +8,7 @@ TOKEN = "7808996019:AAHhtpiH9oLKMcXX5URzBn3dXM9jTzCMaVo"
 
 
 # Admin chat ID
-7534360901 = YOUR_ID_HERE
+ADMIN_CHAT_ID = 7534360901
 
 # Initialize bot
 bot = telebot.TeleBot(TOKEN)
